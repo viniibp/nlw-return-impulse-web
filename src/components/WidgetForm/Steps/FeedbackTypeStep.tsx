@@ -11,7 +11,7 @@ export function FeedbackTypeStep(props: FeedbackTypeStepProps) {
     <>
       <header>
         <span className="text-xl leading-6">
-          Deixe seu feedback
+          Deixe seu feedback!
         </span>
         <CloseButton />
       </header>
